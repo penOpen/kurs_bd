@@ -1,0 +1,13 @@
+C:\Users\HP\programming\Dbkurs\bin\Debug\Dbkurs.exe.config
+C:\Users\HP\programming\Dbkurs\bin\Debug\Dbkurs.exe
+C:\Users\HP\programming\Dbkurs\bin\Debug\Dbkurs.pdb
+C:\Users\HP\programming\Dbkurs\obj\Debug\Dbkurs.csproj.AssemblyReference.cache
+C:\Users\HP\programming\Dbkurs\obj\Debug\Dbkurs.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\programming\Dbkurs\obj\Debug\Dbkurs.Form1.resources
+C:\Users\HP\programming\Dbkurs\obj\Debug\Dbkurs.Properties.Resources.resources
+C:\Users\HP\programming\Dbkurs\obj\Debug\Dbkurs.csproj.GenerateResource.cache
+C:\Users\HP\programming\Dbkurs\obj\Debug\Dbkurs.csproj.CoreCompileInputs.cache
+C:\Users\HP\programming\Dbkurs\obj\Debug\Dbkurs.exe
+C:\Users\HP\programming\Dbkurs\obj\Debug\Dbkurs.pdb
+C:\Users\HP\programming\Dbkurs\obj\Debug\Dbkurs.FormCONST.resources
+C:\Users\HP\programming\Dbkurs\obj\Debug\Dbkurs.FormCHANGE.resources
